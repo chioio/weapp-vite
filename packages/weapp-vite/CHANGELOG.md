@@ -1,5 +1,11 @@
 # weapp-vite
 
+## 6.2.4
+
+### Patch Changes
+
+- 🐛 **完善 Node.js 版本要求的提示：文档明确支持 `^20.19.0 || >=22.12.0`，CLI 在低于该范围时给出警告。** [`a887b51`](https://github.com/weapp-vite/weapp-vite/commit/a887b516cd0b14f22cc39e9f46be2ab5934d53e4) by @sonofmagic
+
 ## 6.2.3
 
 ### Patch Changes
